@@ -1,4 +1,4 @@
-# Stealth Seminar API Registration form
+# StealthSeminar Registration Form with API
 
 Simple Registration page using [StealthSeminar](https://stealthseminar.com/) API.
 
